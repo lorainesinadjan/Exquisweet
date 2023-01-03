@@ -95,12 +95,12 @@
 
     <TextView
         android:id="@+id/price_output"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="190dp"
+        android:layout_height="31dp"
         android:layout_marginTop="24dp"
         android:text="Wholesale Price: ₱0.00"
-        android:textColor="@color/black"
         android:textAlignment="center"
+        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calculate_button" />
